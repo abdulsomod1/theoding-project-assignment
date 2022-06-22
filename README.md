@@ -1,27 +1,21 @@
-# Robot technology
+# theolding project assigment
 
-> This page talks about robot knowledge and it was done by html,css and there component.
+> This page talks about command line .
 > ![screenshot](./screenshort.png)
-
-It contains more the robot pictures of the robot more about it uses
 
 ## Built With
 
 - `ul` ( unorderd list to represent my numbering with bullet)
-- `a` ( to link an externl wepsite with pages)
-- `main` ( is also used in html)
--
+- `h2` & `h1`
 
 ## Live Demo
 
-[Live Demo Link](https://fast-cooking-equipment.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/abdulsomod1/fcc_tribute_page/pulls
 
 ```
 
@@ -84,7 +78,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - w3 school
-- boss,boss
+- theolding project practice
 - etc
 
 ## 📝 License
