@@ -21,7 +21,7 @@ cd -- will launch the vs code and that means it will open a new window
 - current directory can be navigate to by pressing `pwd`
  
 - How do you display the contents of the directory you are currently in?
-- Content of the current directory can be display by pressing "ls -a"
+- Content of the current directory can be display by pressing `ls -a`
 
 - How do you create a new directory?
 - A new directory can be create by prssing `mkdir`
