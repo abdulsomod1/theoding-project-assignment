@@ -39,11 +39,8 @@ Abdul-Somod@DESKTOP-7TDQMCG MINGW64 /c/projects/theolding-project-assigment (mai
                 
                 $ ssh -T git@github.com
                 The authenticity of host 'github.com (140.82.121.4)' can't be established.    
-              **
-              
-              
-    ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.This key is not known by any other names
+              **ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.This key is not known by any other names
             **Are you sure you want to continue connecting (yes/no/[fingerprint])? y        
             **Please type 'yes', 'no' or the fingerprint: yes
                 Warning: Permanently added 'github.com' (ED25519) to the list of known hosts. 
-                git@github.com: Permission denied (publickey).
+                git@github.com: Permission denied (publickey)**.
